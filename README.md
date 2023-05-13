@@ -17,11 +17,11 @@ This is a Python application that performs Singular Spectrum Analysis (SSA) on a
 
 1. Clone the repository to your local machine.
 2. Install the required packages by running `pip install -r requirements.txt` in the terminal.
-3. Run the application by running `python main.py` in the terminal.
+3. Run the application by running `python parse.py` in the terminal.
 
 ## Usage
 
-1. Open the application by running `python main.py` in the terminal.
+1. Open the application by running `python parse.py` in the terminal.
 2. Click on the "Open File" button to select a CSV file containing time series data.
 3. The application will display the raw data on a graph.
 4. The user can select the type of scaler to use for normalization of the data.
